@@ -1,4 +1,4 @@
-name: HR Service CI Pipeline
+name: HR Service CI Pipeline.
 
 on:
   push:
